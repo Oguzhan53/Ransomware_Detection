@@ -1,2 +1,1 @@
-# 2.Graduation-Project
-Ransomware detection from url in emails
+# Ransomware detection from url in emails
